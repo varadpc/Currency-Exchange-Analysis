@@ -19,8 +19,6 @@ Yearly and monthly growth analysis of the exchange rate.
 
 ![newplot (2)](https://github.com/user-attachments/assets/ab6035f1-44c8-4974-b27f-a464d9cb390e)
 
-Time series seasonal decomposition.
-
 Prophet model forecast for the next 365 days.
 
 ![newplot (3)](https://github.com/user-attachments/assets/bc25c101-fe33-49ee-8583-ef2f67e89be1)
